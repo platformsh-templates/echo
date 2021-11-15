@@ -12,7 +12,7 @@ Echo is a lightweight, minimalist web framework written in Go.
 
 ## Features
 
-* Go 1.15
+* Go 1.14
 * MariaDB 10.4
 * Automatic TLS certificates
 * Git module-based build
